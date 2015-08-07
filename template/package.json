@@ -1,0 +1,17 @@
+{
+  "name": "rokkaku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "rokkaku": "bin/rokkaku.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.8.1"
+  }
+}

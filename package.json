@@ -1,0 +1,19 @@
+{
+  "name": "rokkaku",
+  "version": "0.1.0",
+  "description": "A simple boilerplate for cui application with node.js",
+  "main": "index.js",
+  "bin": {
+    "rokkaku": "bin/rokkaku.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "p1ch_jp",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.0",
+    "commander": "^2.8.1",
+    "shelljs": "^0.5.1"
+  }
+}
